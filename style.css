@@ -1,0 +1,74 @@
+
+
+body{
+  min-width:400px;
+}
+
+  #input-el{
+ 
+    width:98vw;
+    height:45px;
+    border-radius:5px;
+    background: white;
+    color:black;
+    
+    margin-top:20px;
+    margin-left:5px;
+    margin-right:8px;
+    
+ 
+  }
+  #delete{
+    width:250px;
+    height:50px;
+    border-radius: 5px;
+    background: white;
+    font-weight: bold;
+    margin:5px;
+    margin-top:15px;
+    letter-spacing: 2px;
+    cursor: pointer;
+    color:rgba(17, 26, 68, 0.998); 
+    border-color: rgba(17, 26, 68, 0.998); ;
+  }
+   #tab-btn{
+    width:250px;
+    height:50px;
+    border:none;
+    border-radius: 5px;
+    background:rgba(17, 26, 68, 0.998); 
+    color:white;
+    padding: 5px 10px; 
+    font-weight: bold;
+    margin:5px;
+    margin-top:15px;
+    letter-spacing: 2px;
+    cursor: pointer;
+   }
+  
+  #input-button {
+
+    width:250px;
+    height:50px;
+    border:none;
+    border-radius: 5px;
+    background:rgba(17, 26, 68, 0.998); 
+    color:white;
+    padding: 5px 10px; 
+    font-weight: bold;
+    margin:5px;
+    margin-top:15px;
+    letter-spacing: 2px;
+    cursor: pointer;
+   
+  }
+  ul{
+    display: inline;
+  }
+ li{
+  margin-top:5px;
+  font-size:1.5rem;
+ }
+  li  a{
+    color:rgba(17, 26, 68, 0.998); 
+  }
